@@ -1,0 +1,2 @@
+# newProject
+static landing
